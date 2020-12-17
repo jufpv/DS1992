@@ -1,7 +1,7 @@
 /*
 HACK iButton DS1992 (Machine à café)
 ju-dev.fr 2017
-v1
+v1.0
 */
 
 
